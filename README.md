@@ -14,7 +14,7 @@
 - **Web:** HTML, CSS, Bootstrap, React.js  
 - **AI/ML:** spaCy, PyTorch, HuggingFace, Scikit-learn  
 - **IoT & Embedded:** Arduino, ESP32, I2C, Firebase Realtime Database  
-- **Other Tools:** Git, GitHub, VS Code, Linux, Render, Docker  
+- **Other Tools:** Git, GitHub, VS Code, Linux, Render 
 
 ---
 
