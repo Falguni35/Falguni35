@@ -4,7 +4,7 @@
 - 🌱 Currently learning **Machine Learning, AI, and Embedded Systems**
 - 💻 Working on projects with **Python, C, C++, Java, and Web Development**
 - 🔗 Exploring **IoT with Arduino & ESP32** integrated with **Firebase**
-- 🤖 Passionate about building **LLMs from scratch** and understanding AI fundamentals
+- 🤖 Passionate about building **LLMs** and understanding AI fundamentals
 - 🎯 Goal: To build impactful tech that makes life easier
 
 ---
